@@ -1,0 +1,12 @@
+fumee 1 -- 1 1 1 
+fumee 1 -- 1 1 2 
+fumee 1 -- 1 1 3 
+fumee 1 -- 1 1 4 
+fumee 1 -- 1 1 5 
+fumee 7 -- 1 2 1 
+fumee 7 -- 1 2 2 
+fumee 7 -- 1 2 3 
+fumee 7 -- 1 2 4 
+fumee 7 -- 1 2 5 
+mouvement 19 -- 1 1 1 
+mouvement 19 -- 1 1 3 

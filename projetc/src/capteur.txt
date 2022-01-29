@@ -1,0 +1,6 @@
+mouvement 222 111 50 1 3
+fumee 123 phoenix 20 20 16h
+temperature 21598 phoenix 23 6 12h
+debit 12546 delta 63 10 8h
+temperature 123598 41233 2345 5 16h
+fumee 1234 hjk5 166 7 16h 
